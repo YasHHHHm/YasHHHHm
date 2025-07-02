@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **yashmehra0410@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N4iJmjkpP2wHurwc8XMkSRhgonDxp7Gd/view?usp=sharing](https://drive.google.com/file/d/1N4iJmjkpP2wHurwc8XMkSRhgonDxp7Gd/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1N4iJmjkpP2wHurwc8XMkSRhgonDxp7Gd/view?usp=sharing](https://drive.google.com/file/d/1dJt9EyEWoFbaCpWfhWkHigiD1Hb6xXfl/view?usp=sharing))
 
 - ⚡ Fun fact **I go to gym and play football**
 
