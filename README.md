@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashhhhm&label=Profile%20views&color=0e75b6&style=flat" alt="yashhhhm" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Company Projects**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack & React Native**
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at [https://yashmehra.netlify.app/](https://yashmehra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashmehra.vercel.app/](https://yashmehra.vercel.app/)
 
 - 💬 Ask me about **MERN , Java**
 
