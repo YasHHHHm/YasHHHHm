@@ -46,7 +46,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashhhhm&show_icons=true&locale=en&layout=compact" alt="yashhhhm" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhhhm&show_icons=true&locale=en" alt="yashhhhm" /></p>
 
